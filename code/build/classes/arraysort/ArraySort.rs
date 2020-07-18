@@ -1,0 +1,4 @@
+arraysort.GradeCompare
+arraysort.ArraySort
+arraysort.NameCompare
+arraysort.IDCompare
